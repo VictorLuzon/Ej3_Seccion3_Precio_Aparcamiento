@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\ref\Ej_3_Sección_3.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\bin\Debug\net5.0\Ej_3_Sección_3.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\ref\Ej_3_Sección_3.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ej_3_Sección_3\obj\Debug\net5.0\Ej_3_Sección_3.genruntimeconfig.cache
